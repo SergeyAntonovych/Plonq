@@ -803,6 +803,196 @@ img {
 }
 
 
+/* problem */
+
+.problem {
+  margin-top: 250px;
+}
+
+
+.problem__inner {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+
+.problem__title {
+  font-size: 40px;
+  line-height: 45px;
+
+  color: #000000;
+}
+
+
+.problem__text {
+  max-width:  408px;
+
+  font-size: 15px;
+  line-height: 21px;
+  
+  margin-top: 38px;
+
+  color: #000000;
+}
+
+
+.problem__text p {
+
+  font-size: 15px;
+  line-height: 21px;
+
+  color: #000000;
+}
+
+.problem__img {
+  margin: 50px 15px;
+}
+
+
+/* problem //*/
+
+/* comparison */
+
+.comparison {
+  margin-top: 300px;
+}
+
+
+.comparison__title {
+  margin-left: 60px;
+
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.comparison__inner {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+
+  margin-top: 85px;
+}
+
+.comparison__descr {
+  margin: 50px 0;
+}
+
+
+.comparison__item {
+  display: flex;
+
+  margin-top: 20px;
+  
+}
+
+.comparison__icon {
+  margin-right: 24px;
+}
+
+
+.comparison__btn {
+  display: flex;
+  justify-content: center;
+  
+  font-weight: bold;
+
+  
+  width: 240px;
+  margin: 55px auto;
+  border: 1px solid #000000;
+  border-radius: 100px;
+
+  padding: 20px 20px;
+
+
+  color: #000000;
+
+  transition: 0.2s linear;
+}
+
+.comparison__btn:hover {
+  background: #000;
+
+  color:  #fff;
+}
+
+
+/* comparison //*/
+
+/* therapist */
+
+.therapist-container {
+  margin-top: 200px;
+  padding: 150px 0;
+  height: auto;
+}
+
+
+.therapist__content,therapist__img {
+  width: 50%;
+}
+
+.therapist-container {
+  background: #F9F9F9;
+}
+
+.therapist__inner {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+
+.therapist__content {
+  width: 448px;
+  padding: 0 15px;
+}
+
+
+.therapist__title {
+  font-size: 40px;
+  line-height: 45px;
+}
+
+
+.therapist__descr {
+  margin-top: 38px;
+}
+
+/* therapist // */
+
+/* update */
+
+.update {
+  margin-top: 250px;
+}
+
+
+.update__inner {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.update__title {
+  font-size: 40px;
+  line-height: 45px;
+
+}
+
+
+.update__text {
+  max-width: 416px;
+  margin: 50px 0;
+}
 
 
 
+
+
+/* update // */
